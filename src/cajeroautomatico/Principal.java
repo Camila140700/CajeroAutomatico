@@ -6,6 +6,9 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Hola Mundo :)");
+		System.out.println("Buenos días");
 		// Declaramos variables
 		Scanner lectura = new Scanner(System.in); // Crea una instancia de Scanner para leer la entrada de datos
 		int id;
